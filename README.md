@@ -12,3 +12,17 @@ This project involves experience with:
 *   Advanced fine-tuning techniques (LoRA, quantization)
 *   Self-supervised learning methods
 *   Dataset curation and quality control
+
+
+
+📊 SUMMARY:
+- Backward Model URL: https://huggingface.co/NilayR/llama2-7b-backward-instruction
+- Generated 5 instruction examples ✅
+- Showed 5 high-quality examples ✅
+- Showed 5 low-quality examples ✅
+- Curated Dataset URL: https://huggingface.co/datasets/NilayR/instruction-backtranslation-curated
+- Final Model URL: https://huggingface.co/NilayR/llama2-7b-instruction-tuned
+- Generated 5 example responses ✅
+
+
+
